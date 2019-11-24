@@ -9,7 +9,7 @@ such as number of bedroom, garage, bathroom, geolocation, advertiser name, URL, 
 portal in online market of real estate agency, Pass through a hundred thousand of these ads you will discover many interesting
 thing inside this dataset. 
 
-Notes :
+Notes : <br/>
 EDA.ipynb file (EDA_original.ipynb is dirty and it my playground) <br/>
 The Story Telling contain in file : story_telling.pdf <br/>
 Pricipal Factor Analysis is file : principle_factor_analysis.pdf <br/>
