@@ -10,8 +10,8 @@ portal in online market of real estate agency, Pass through a hundred thousand o
 thing inside this dataset. 
 
 Notes :
-EDA.ipynb file (EDA_original.ipynb is dirty and it my playground)
-The Story Telling contain in file : story_telling.pdf
-Pricipal Factor Analysis is file : principle_factor_analysis.pdf
+EDA.ipynb file (EDA_original.ipynb is dirty and it my playground) <br/>
+The Story Telling contain in file : story_telling.pdf <br/>
+Pricipal Factor Analysis is file : principle_factor_analysis.pdf <br/>
 
 Let's Begin!!! ... 
