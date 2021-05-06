@@ -59,7 +59,7 @@ fastcache==1.0.2
 filelock==3.0.10
 Fiona==1.8.11
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 future==0.17.1
 gast==0.3.2
 geopandas==0.6.2
